@@ -1,6 +1,6 @@
 # AnsPress-Turkish
 # Gökay Demirkıran
-# WWW.GOKAYDEMIRKIRAN.COM
+# WWW.GOKAYDEMIRKIRAN.COM.TR
 Wordpress AnsPress Eklentisinin Türkçe Dil Dosyaları
 
 #AÇIKLAMA
